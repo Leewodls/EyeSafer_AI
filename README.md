@@ -1,3 +1,4 @@
+<img width="767" alt="스크린샷 2024-11-22 오후 8 33 57" src="https://github.com/user-attachments/assets/05cb4968-6bca-4cdd-9ddb-7139645e1192">
 # EyeSafer
 - 인공지능 기반의 인구 밀집도 측정 및 경고 시스템
 - 안전 사고 예방 및 효율적인 인력 배치를 목적으로 설계된 프로젝트 
